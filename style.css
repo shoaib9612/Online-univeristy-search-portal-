@@ -1,0 +1,88 @@
+body {
+  background-image: url(bg.jpeg);
+  background-size: cover;
+}
+
+.info	{
+	margin-left: 18%;
+	font-weight: bold; 
+}
+
+.topnav {
+  overflow: hidden;
+  background: rgba(12, 4, 4, 0.2);
+  border-radius: 25px;
+  	border: 2px solid #73AD21;
+  	padding: 20px;
+  	border-top: none;
+  	border-left: none;
+  	border-right: none;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.form{
+	margin-top: 10px;
+	background: rgba(12, 4, 4, 0.2);
+	margin-left: 70%;
+	text-align: center
+	float: left;
+	margin-right: 10%
+	border-radius: 25px;
+  	border: 2px solid #73AD21;
+  	padding: 20px;
+  	color: white;
+  	font-size: 20px;
+}
+
+.he1{
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+}
+.copyright{
+	background-color: rgba(28, 26, 26, 0.1);
+	margin-top: 0px;
+	font-size: 10px;
+}
+
+#sub{
+	border:none;
+	width:190px;
+	background: white;
+	color: #000;
+	font-size: 16px;
+	line-height: 16px;
+	padding: 10px;
+	border-radius: 50px;
+	cursor: pointer;
+		
+}
+.dptt{
+	height: 30px;
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+  /*	padding: 20px;*/
+
+}
+#marks{
+	height: 30px;
+	border-radius: 25px;
+}
